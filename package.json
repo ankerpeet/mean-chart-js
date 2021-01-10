@@ -1,0 +1,25 @@
+{
+  "name": "mean-chart-js",
+  "version": "1.0.0",
+  "description": "A simple JavaScript library for creating graphs and other data visualizations.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ankerpeet/mean-chart-js.git"
+  },
+  "keywords": [
+    "data"
+  ],
+  "author": "Anker Peet",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/ankerpeet/mean-chart-js/issues"
+  },
+  "homepage": "https://github.com/ankerpeet/mean-chart-js#readme",
+  "dependencies": {
+    "mean-chart": "^1.0.31"
+  }
+}
